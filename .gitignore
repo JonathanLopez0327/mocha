@@ -1,0 +1,8 @@
+# Ignorar carpetas y archivos generados por Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignorar archivos de configuración específicos de desarrollo
+.env
+.DS_Store
